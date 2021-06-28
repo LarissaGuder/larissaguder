@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Larissa Guder</h1>
 <h3 align="center">Dev Backend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=larissaguder&label=Profile%20views&color=0e75b6&style=plastic" alt="larissaguder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larissaguder" alt="larissaguder" /></a> </p>
-
 - 🔭 I’m currently working on **Nuvoni**
 
 - 👯 I’m collaborating on [LARCC](https://larcc.setrem.com.br)
