@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Larissa Guder</h1>
-<h3 align="center">Dev Backend</h3>
+<h1 align="center">Olá 👋</h1>
+<h3 align="center">Sou mestranda em Ciências da Computação na PUCRS</h3>
 
-- 🔭 I’m currently working on **Nuvoni**
+<h4 align="left">Tenho interesses em:</h4>
 
-- 👯 I’m collaborating on [LARCC](https://larcc.setrem.com.br)
+- Análise de sentimentos
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larissaguder&show_icons=true&theme=dark&locale=en" alt="larissaguder" /></p>
+- Machine Learning
+
+- Dados abertos
+
+- Dados relacionados a músicas
+
