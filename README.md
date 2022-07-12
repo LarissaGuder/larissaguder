@@ -4,10 +4,11 @@
 
 - Processamento de Linguagem Natural
 
-<h4 align="left">Com foco de pesquisa em:</h4>
+<h4 align="left">Já trabalhei com:</h4>
 
-- Processamento de Linguagem Natural
-
+- NodeJS, Python, Java
+- AWS (EC2, RDS, S3, EBS)
+- PostgreSQL, MongoDB
 
 <h4 align="left">O que estou ouvindo?</h4>
 
