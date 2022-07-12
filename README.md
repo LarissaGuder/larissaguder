@@ -10,6 +10,12 @@
 - AWS (EC2, RDS, S3, EBS)
 - PostgreSQL, MongoDB
 
+<h4 align="left">Faço parte dos grupos:</h4>
+
+- Laboratório de Pesquisas Avançadas para Computação em Nuvem (LARCC/SETREM)
+- Grupo de Modelagem de Aplicações Paralelas (GMAP/PUCRS)
+- DataGirls (NEURON/USP)
+
 <h4 align="left">O que estou ouvindo?</h4>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rarigudi&cover_image=true&theme=novatorem&bar_color=22b925&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
