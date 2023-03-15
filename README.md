@@ -1,10 +1,11 @@
 <h1 align="center">Hello world 👋</h1>
-<h3 align="center">Sou mestranda em Ciências da Computação na PUCRS</h3>
-<h4 align="left">Com foco de pesquisa em:</h4>
+<h3 align="center">Sou mestranda em Ciências da Computação na PUCRS. Em minha dissertação, estou trabalhando com reconhecimento de emoções na fala em ambiente de streaming. Para isso, a ideia é utilizar features de áudio e de texto.</h3>
+
+<h4 align="left">Atualmente trabalho com:</h4>
 
 - Processamento de Linguagem Natural
 
-<h4 align="left">Já trabalhei com:</h4>
+<h4 align="left">Já trabalhei com desenvolvimento web utilizando:</h4>
 
 - NodeJS, Python, Java
 - AWS (EC2, RDS, S3, EBS)
