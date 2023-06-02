@@ -6,6 +6,8 @@
 <h4 align="left">Atualmente trabalho com:</h4>
 
 - Processamento de Linguagem Natural
+- Processamento de Sinais Digitais
+- Machine Learning
 
 <h4 align="left">Já trabalhei com desenvolvimento web utilizando:</h4>
 
