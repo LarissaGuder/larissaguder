@@ -1,6 +1,6 @@
 <h1 align="center">Hello world 👋</h1>
-<h3 align="center">Sou mestranda em Ciências da Computação na PUCRS. </h3>
-<h5 align="center">Em minha dissertação, estou trabalhando com reconhecimento de emoções na fala em ambiente de streaming. Para isso, a ideia é utilizar features de áudio e de texto. </h5>
+<h3 align="center">Sou doutoranda em Ciência da Computação na PUCRS. </h3>
+<h5 align="center">Minha pesquisa foca em representações de áudio para reconhecimento de psicopatologias.</h5>
 
 
 <h4 align="left">Atualmente trabalho com:</h4>
