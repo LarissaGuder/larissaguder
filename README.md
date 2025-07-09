@@ -17,4 +17,4 @@
 <h4 align="left">Faço parte dos grupos:</h4>
 
 - Laboratório de Pesquisas Avançadas para Computação em Nuvem (LARCC/SETREM)
-- Grupo de Modelagem de Aplicações Paralelas (GMAP/PUCRS)
+- Grupo de Processamento de Linguagem Natural (PLN/PUCRS)
